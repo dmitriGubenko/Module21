@@ -1,3 +1,7 @@
+# Default ignored files
+.idea/
+Module21.iml
+
 # Compiled class file
 *.class
 
